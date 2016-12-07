@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: s3-operation
+Version: 1.0.0
+Summary: encapsulate API of AWS s3
+Home-page: UNKNOWN
+Author: Barry Shi
+Author-email: major630@163.com
+License: MIT
+Description: Encapsulate API of AWS s3. Just make the use more comforable and will
+        not make many changes if AWS update the APIs 
+Keywords: s3,boto3,aws,python
+Platform: Linux
